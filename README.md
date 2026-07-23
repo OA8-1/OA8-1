@@ -2,8 +2,6 @@
 
 ### Tawjihi & BTEC IT Certified | Python, Cybersecurity & Game Dev Enthusiast 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OA8-1&label=Profile views&color=0e75b6&style=flat" alt="OA8-1" /> </p>
-
 - 🔭 I'm currently working on **Python Automation & AI Content Generation Projects**
 
 - 🌱 I'm currently learning **Cybersecurity fundamentals, Game Development (Godot), and Python**
@@ -43,10 +41,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OA8-1&theme=dark" alt="OA8-1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OA8-1&show_icons=true&theme=dark" alt="OA8-1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OA8-1&show_icons=true&layout=compact&theme=dark" alt="OA8-1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OA8-1&theme=dark" alt="OA8-1 Streak" />
 </p>
