@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/OA8-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OA8-1" height="30" width="40" /></a>
-<a href="https://instagram.com/oa8_1o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oa8_1o" height="30" width="40" /></a>
-<a href="https://discord.gg/oa8_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oa8_1" height="30" width="40" /></a>
+<a href="https://github.com/OA8-1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OA8-1" height="30" width="40" /></a>
+<a href="https://instagram.com/oa8_1o" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oa8_1o" height="30" width="40" /></a>
+<a href="https://discord.com/users/1180776749311733761" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oa8_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
